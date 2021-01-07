@@ -26,6 +26,9 @@ You’ll be able to create an account right from the command line, deploy, and h
 * [kickstart](http://getkickstart.com/) CSS Framework
 * [surge](https://surge.sh/) Static Web Deployment
 
+## References 
+the content of the website is based on the [article](https://img.fifa.com/image/upload/rluhtyghefhyz6ilpfvo.pdf)
+
 
 
 
